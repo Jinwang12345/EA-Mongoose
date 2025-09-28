@@ -1,5 +1,6 @@
 # EA Node.js + TypeScript + Mongoose
-
+## IA Usado
+- ChatGPT
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
